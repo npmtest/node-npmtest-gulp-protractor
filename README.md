@@ -1,4 +1,7 @@
-# test coverage for  [gulp-protractor (v4.1.0)](https://github.com/mllrsohn/gulp-protractor)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-protractor.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-protractor) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-protractor.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-protractor)
+# npmtest-gulp-protractor
+
+#### test coverage for  [gulp-protractor (v4.1.0)](https://github.com/mllrsohn/gulp-protractor)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-protractor.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-protractor) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-protractor.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-protractor)
+
 #### A helper for protactor and gulp
 
 [![NPM](https://nodei.co/npm/gulp-protractor.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-protractor)
