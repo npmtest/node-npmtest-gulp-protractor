@@ -71,7 +71,7 @@
 <tspan x="10" y="1098">  │   ├── clone@1.0.2 </tspan>
 <tspan x="10" y="1114">  │   └── clone-stats@0.0.1 </tspan>
 <tspan x="10" y="1130">  └─┬ protractor@5.1.1 </tspan>
-<tspan x="10" y="1146">    ├── @types/node@6.0.68 </tspan>
+<tspan x="10" y="1146">    ├── @types/node@6.0.70 </tspan>
 <tspan x="10" y="1162">    ├── @types/q@0.0.32 </tspan>
 <tspan x="10" y="1178">    ├── @types/selenium-webdriver@2.53.42 </tspan>
 <tspan x="10" y="1194">    ├── blocking-proxy@0.0.5 </tspan>
@@ -141,7 +141,7 @@
 <tspan x="10" y="2218">      │ ├─┬ form-data@2.1.4 </tspan>
 <tspan x="10" y="2234">      │ │ └── asynckit@0.4.0 </tspan>
 <tspan x="10" y="2250">      │ ├─┬ har-validator@4.2.1 </tspan>
-<tspan x="10" y="2266">      │ │ ├─┬ ajv@4.11.6 </tspan>
+<tspan x="10" y="2266">      │ │ ├─┬ ajv@4.11.7 </tspan>
 <tspan x="10" y="2282">      │ │ │ ├── co@4.6.0 </tspan>
 <tspan x="10" y="2298">      │ │ │ └─┬ json-stable-stringify@1.0.1 </tspan>
 <tspan x="10" y="2314">      │ │ │   └── jsonify@0.0.0 </tspan>
